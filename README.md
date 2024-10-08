@@ -16,5 +16,5 @@ Video Solution Youtube Overview:
 [![SpectrumCare Connect](https://img.youtube.com/vi/OsGUSPkHkOA/0.jpg)](https://www.youtube.com/watch?v=OsGUSPkHkOA)
 
 you can also see my friends in the hacker and hipster role sections
-[https://github.com/dhiyazhar/SpectrumCare-Connect](https://github.com/dhiyazhar/SpectrumCare-Connect.git)
+[SpectrumCare-Connect-Hacker](https://github.com/dhiyazhar/SpectrumCare-Connect.git)
 
