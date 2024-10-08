@@ -6,13 +6,14 @@ A team called TahuTech consisting of 4 people participated in HackFest 2024, we 
 
 
 BMC :
-[BMC SpectrumCare Connect by TahuTech.pdf](https://github.com/user-attachments/files/17297901/BMC.SpectrumCare.Connect.by.TahuTech.pdf)
+[BMC SpectrumCare Connect by TahuTech](https://github.com/user-attachments/files/17297901/BMC.SpectrumCare.Connect.by.TahuTech.pdf)
 
 Pitch Deck :
-[TahuTech Pitch Deck FInal Stage_2.pdf](https://github.com/user-attachments/files/17297816/TahuTech.Pitch.Deck.FInal.Stage_2.pdf)
+[TahuTech Pitch Deck FInal](https://drive.google.com/file/d/1FqRPWWqH8g83SJV-DjPnvw53g5WmxbF1/view?pli=1)
 
-Video Solution :
-https://www.youtube.com/watch?v=OsGUSPkHkOA
+Video Solution Youtube Overview:
+
+[![SpectrumCare Connect](https://img.youtube.com/vi/OsGUSPkHkOA/0.jpg)](https://www.youtube.com/watch?v=OsGUSPkHkOA)
 
 you can also see my friends in the hacker and hipster role sections
 [https://github.com/dhiyazhar/SpectrumCare-Connect](https://github.com/dhiyazhar/SpectrumCare-Connect.git)
